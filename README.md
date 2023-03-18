@@ -31,16 +31,13 @@ WeConnect - ![churn](https://user-images.githubusercontent.com/114226899/2260977
 
 # Data 
 
-[Data_Train](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/Churn_train.csv)
-[Data_Test](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/Churn_test.csv)
-
 >The dataset is divided into two parts: Train and Test sets.
 
-Train Set:
+Train Set:[Data_Train](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/Churn_train.csv)
 >The train set contains 5634 rows and 21 columns.
 >The last column Churn is the target variable.
 
-Test Set:
+Test Set:[Data_Test](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/Churn_test.csv)
 >The test set contains 1409 rows and 20 columns.
 >The test set doesn’t contain the Churn column.
 >It needs to be predicted for the test set.
