@@ -31,7 +31,8 @@ WeConnect - ![churn](https://user-images.githubusercontent.com/114226899/2260977
 
 # Data 
 
-[Data]()
+[Data_Train](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/Churn_train.csv)
+[Data_Test](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/Churn_test.csv)
 
 >The dataset is divided into two parts: Train and Test sets.
 
@@ -43,3 +44,11 @@ Test Set:
 >The test set contains 1409 rows and 20 columns.
 >The test set doesn’t contain the Churn column.
 >It needs to be predicted for the test set.
+
+# Analysis and Model Evaluation
+> Its all works done in Jupyter notebooks.
+> Best model is Xgboost classifier with 83.597 % accuracy score and 	83.879 % F1 Score.
+[Data Science](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/telecomeChurn.ipynb)
+
+# Software
+All the analysis are done by using python 3.6 and others usefull libraries .
