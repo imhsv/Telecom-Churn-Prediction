@@ -48,7 +48,8 @@ Test Set:
 # Analysis and Model Evaluation
 > Its all works done in Jupyter notebooks.
 > Best model is Xgboost classifier with 83.597 % accuracy score and 	83.879 % F1 Score.
-[Data Science](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/telecomeChurn.ipynb)
+ 
+ [Data Science](https://github.com/imhsv/Telecom-Churn-Prediction/blob/main/telecomeChurn.ipynb)
 
 # Software
 All the analysis are done by using python 3.6 and others usefull libraries .
